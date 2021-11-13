@@ -6,27 +6,21 @@ The project is N-tier application with:
 - Service layer with business logic
 - Representation level for interaction with the app with controllers<br/>
 
-## Commands
-```
-Endpoint: ../, ../
+## Endpoints
+1) Endpoint: ../, ../
 Login page (authentication realisation)
 Screenshot: https://prnt.sc/1zh220e
-```
 
-```
-Endpoint: ../register
+2) Endpoint: ../register
 Register page 
 Screenshot: https://prnt.sc/1zh2ekc
-```
-```
-Endpoint: ../articles/add
-Screenshot: https://prnt.sc/1zh2jnx
-```
 
-```
-Endpoint: ../articles/all
+3) Endpoint: ../articles/add
+Screenshot: https://prnt.sc/1zh2jnx
+
+4) Endpoint: ../articles/all
 Screenshot: https://prnt.sc/1zh2mhk
-```
+
 
 ## Technologies used
 - Java 11
